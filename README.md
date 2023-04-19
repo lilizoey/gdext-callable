@@ -5,8 +5,8 @@ This library leaks memory every time a closure is turned into a callable.
 make dependencies look like:
 ```toml
 [dependencies]
-godot = { git = "https://github.com/sayaks/gdextension", branch = "feature/callable" }
-gdext-callable = { git = "https://github.com/sayaks/gdext-callable", branch = "main" }
+godot = { git = "https://github.com/lilizoey/gdextension", branch = "feature/callable" }
+gdext-callable = { git = "https://github.com/lilizoey/gdext-callable", branch = "main" }
 ```
 
 ## example
